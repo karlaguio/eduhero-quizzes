@@ -1,3 +1,55 @@
 {
-  "_comment": "This is a sample of what should be the questions, it has just simple math, science and english questions to try it out"
+  "_comment": "This is a sample of what should be the questions, it has just simple math, science, and English questions to try it out"
+  "math": [
+    {
+      "question": "What is 2 + 2?",
+      "choices": ["3", "4", "5"],
+      "correct": "4"
+    },
+    {
+      "question": "What is 10 ÷ 2?",
+      "choices": ["4", "5", "6"],
+      "correct": "5"
+    },
+    {
+      "question": "What is 7 × 6?",
+      "choices": ["42", "36", "48"],
+      "correct": "42"
+    }
+  ],
+  "science": [
+    {
+      "question": "What planet is known as the Red Planet?",
+      "choices": ["Earth", "Mars", "Jupiter"],
+      "correct": "Mars"
+    },
+    {
+      "question": "What do plants need for photosynthesis?",
+      "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen"],
+      "correct": "Carbon Dioxide"
+    },
+    {
+      "question": "What is H2O commonly known as?",
+      "choices": ["Salt", "Water", "Hydrogen"],
+      "correct": "Water"
+    }
+  ],
+  "English": [
+    {
+      "question": "What is the plural of 'mouse'?",
+      "choices": ["mouses", "mice", "mouse"],
+      "correct": "mice"
+    },
+    {
+      "question": "Which word is a noun?",
+      "choices": ["run", "quickly", "apple"],
+      "correct": "apple"
+    },
+    {
+      "question": "Choose the correct past tense: 'She ___ to the store.'",
+      "choices": ["goed", "goes", "went"],
+      "correct": "went"
+    }
+  ]
 }
+
