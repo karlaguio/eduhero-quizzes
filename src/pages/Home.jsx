@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="p-8 text-center">
       <h1 className="text-4xl font-bold mb-6">Welcome to EduHero Quizzes</h1>
-      <p className="mb-4 text-lg text-gray-700">Select a topic to begin your learning adventure!</p>
+      <p className="mb-4 text-lg text-gray-700">Please select a topic to begin your learning adventure!</p>
       <div className="flex justify-center flex-wrap gap-4">
         {topics.map((topic) => (
           <Link
